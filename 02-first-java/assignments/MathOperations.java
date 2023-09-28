@@ -9,6 +9,7 @@ public class MathOperations {
         int x = sc.nextInt();
         System.out.println("Enter another number: ");
         int y = sc.nextInt();
+// Consume the newline character left in the input buffer
         sc.nextLine();
         System.out.println("Choose one operator between these [+, -, *, /, %]: ");
         String operator = sc.nextLine();

@@ -16,7 +16,7 @@ public class HcfAndLcm_04 {
                 gcd = i;
             }
         }
-         System.out.println("The HCF is :" + gcd);
+         System.out.println("The HCF is :" +   gcd);
         int lcm = (num1 * num2) / gcd;
         System.out.println("The LCM is :"+lcm);
     }

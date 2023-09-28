@@ -10,7 +10,7 @@ public class MultiplicationOfNum_03 {
          System.out.println("Following is the table of "+x);
         for (int i = 1; i <=10; i++) {
            
-            System.out.println(x * i);
+            System.out.println(x *  i);
         }
        
 

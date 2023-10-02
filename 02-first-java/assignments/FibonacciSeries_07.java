@@ -17,3 +17,15 @@ public class FibonacciSeries_07 {
         }
     }
 }
+
+
+/*
+
+// to print fibonacci numbers
+ for (int i = 1; i <= num; i++) {
+            System.out.print(firstTerm + " ");
+            int nextTerm = firstTerm + secondTerm;
+            firstTerm = secondTerm;
+            secondTerm = nextTerm;
+        } 
+ */

@@ -1,4 +1,4 @@
-package Lectures_pgms;
+
 import java.util.Scanner;
 class PrimeNum{
     public static void main(String[] args) {
@@ -19,5 +19,7 @@ class PrimeNum{
         } else{
             System.out.println("Number is not prime." );
         }
+
     }
+
 }

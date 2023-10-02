@@ -1,4 +1,4 @@
- package assignmentsQuestions_02;
+package assignments;
 import java.util.Scanner;
 public class LeapYear_01 {
     public static void main(String[] args) {

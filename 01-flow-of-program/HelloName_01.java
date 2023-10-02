@@ -1,4 +1,4 @@
-package Lectures_pgms;
+
 import java.util.Scanner;
 
 class name {

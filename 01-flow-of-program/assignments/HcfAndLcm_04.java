@@ -1,5 +1,4 @@
-package assignmentsQuestions_02;
-
+package assignments;
 import java.util.Scanner;
 
 public class HcfAndLcm_04 {
